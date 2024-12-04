@@ -20,5 +20,5 @@ Backend: SQL, MySQL, Express, NodeJs
 
 ## Connect With Me
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/halimat-ajani-7a914925b/)
+[LinkedIn](https://www.linkedin.com/in/halimat-ajani-7a914925b/)
 
