@@ -7,6 +7,7 @@ I am a Full Stack Web Developer. I am a problem solver passionate about building
 These are technologies I have used as a Developer
 
 Frontend: HTML, CSS, JavaScript, TypeScript, React, WordPress
+
 Backend: SQL, MySQL, Express, NodeJs
 
 ## Soft Skills
