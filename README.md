@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there 👋....My name is Ajani Halimat
 
-<!--
-**SHADIYYAH/shadiyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Web Developer. I am a problem solver passionate about building solutions using human creativity and technology. I am constantly learning better ways to write maintainable and scalable code as well as improve my soft skills.
 
-Here are some ideas to get you started:
+Technical Skills
+These are technologies I have used as a Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript, TypeScript, React, WordPress
+Backend: SQL, MySQL, Express, NodeJs
+
+Soft Skills
+-Problem solving
+-Dedicated Learner
+-Effective Communicator    
+
+Connect With Me
