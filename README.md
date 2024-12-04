@@ -12,7 +12,9 @@ Backend: SQL, MySQL, Express, NodeJs
 Soft Skills
 
 -Problem solving
+
 -Dedicated Learner
+
 -Effective Communicator    
 
 Connect With Me
